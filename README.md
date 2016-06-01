@@ -4,7 +4,12 @@
 
 >"Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice" - Christopher Alexander says
 
-* [Strategy](#strategy)
+###[Strategy](#strategy)
+
+>Define a family of algorithms, encapsulate each one, and make them
+interchangeable. Strategy lets the algorithm vary independently from
+clients that use it. - Gof
+
 
 <a name="strategy">Strategy</a>
 
@@ -12,7 +17,7 @@
 
 * When you want to define a class that will have one behavior that is similar to other behaviors in a list:
     + Not flying
-    + Flying fast
+    + Flying fasts
     + Flying with rocket 
 
 * When you need to use one of severel behaviors dynamically    
