@@ -30,6 +30,7 @@ clients that use it. - Gof
 
 * Can hide complicated 
 
+<a name="strategy"></a> Test
 ###Problem?
 * Increased number of Classes. 
 
@@ -37,4 +38,3 @@ UML for strategy sample pattern.
 
 ![PlantUML model](http://plantuml.com/plantuml/png/VP1DRi8m48NtFiKiGPLHrrOK2LeXiOOBECw0H_KFibqGXTwz8N6AqrRTpRptpSopunkvempIWZ8oncLAWPhtX1lbtPO-49vPRy3IaPK6hWo0GuDQdiY7jRc8rQFkl2T8uRBpNJERYsstp1rwDM8gm5bHpyN9Kyi-MJvKM51Lv1A6lLHOrzT-qRxS_9ZQf3l_1_9Dl4Zt3wEfHR1e6mmHXavHK0PPrFuylZu3WrO6jPYqRxCnP9b8u_5HP7bXTUCSLXHQ440Hv4H_zOSVCkVrvAm0BU_svCzkYqMEq0tReq6BBiNVp9YffBu0)
 
-<a name="strategy"></a>
